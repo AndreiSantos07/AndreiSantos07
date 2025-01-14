@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AndreiSantos07
 - 👀 I’m interested in ... Plants and Music
-- 🌱 I’m currently learning ... DSA, VDA, OOP9B
+- 🌱 I’m currently learning ... Any
 - 💞️ I’m looking to collaborate on ... as of now, none.
-- 📫 How to reach me ... check my gmail 
-- 😄 Pronouns: ... He
+- 📫 To reach me, slide in my dms
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I do multitask, I am flexible in tasks.
 
 <!---
